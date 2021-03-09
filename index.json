@@ -1,0 +1,36 @@
+[
+{
+	"uri": "/preparacio/",
+	"title": "Preparacio",
+	"tags": [],
+	"description": "",
+	"content": "Capítol 1 Creació dels repositoris "
+},
+{
+	"uri": "/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "Creant Documentació!! amb hugo "
+},
+{
+	"uri": "/preparacio/primera-entrada/",
+	"title": "Primera Entrada",
+	"tags": [],
+	"description": "",
+	"content": "Cal crear 2 repositoris a gitub:\n codi per generar les entrades codi font que és el que llegirà el servidor web (apache, nginx o whatever)  "
+},
+{
+	"uri": "/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

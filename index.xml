@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo-blog</title>
+    <link>/</link>
+    <description>Recent content on hugo-blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca-ES</language>
+    <lastBuildDate>Tue, 09 Mar 2021 19:25:04 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primera Entrada</title>
+      <link>/preparacio/primera-entrada/</link>
+      <pubDate>Tue, 09 Mar 2021 19:12:26 +0100</pubDate>
+      
+      <guid>/preparacio/primera-entrada/</guid>
+      <description>Cal crear 2 repositoris a gitub:
+ codi per generar les entrades codi font que és el que llegirà el servidor web (apache, nginx o whatever)  </description>
+    </item>
+    
+  </channel>
+</rss>
